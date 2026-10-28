@@ -1,0 +1,37 @@
+[
+  {
+    "proposal": "A",
+    "rank": 1,
+    "status": "ranked",
+    "score": 77.1,
+    "reason": "Passed both mandatory checks and scored highest, led by experience and a complete team, safety, and monitoring package."
+  },
+  {
+    "proposal": "B",
+    "rank": null,
+    "status": "ineligible",
+    "score": null,
+    "reason": "Fails the licence rule: the bidder does not state its own Ontario electrical contractor licence."
+  },
+  {
+    "proposal": "C",
+    "rank": null,
+    "status": "flagged",
+    "score": null,
+    "reason": "Held for a person to review because the file tries to tell the tool what rank and marks to give."
+  },
+  {
+    "proposal": "D",
+    "rank": null,
+    "status": "flagged",
+    "score": null,
+    "reason": "Held because no completion time is stated, so timeline cannot be scored without inventing one."
+  },
+  {
+    "proposal": "E",
+    "rank": 2,
+    "status": "ranked",
+    "score": 69.4,
+    "reason": "Passed both mandatory checks. Strong warranty and team, with less experience and a higher price than the proposal ranked first."
+  }
+]

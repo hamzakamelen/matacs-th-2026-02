@@ -1,0 +1,24 @@
+{
+  "budget_ceiling_cad": 260000,
+  "price_full_marks_ratio": 0.7,
+  "timeline_cap_weeks": 16,
+  "timeline_full_marks_weeks": 10,
+  "timeline_score_at_cap": 50,
+  "experience_full_marks_count": 10,
+  "panel_full_marks_years": 25,
+  "workmanship_full_marks_years": 15,
+  "insurance_minimum_cad": 5000000,
+  "weights": {
+    "experience": 30,
+    "price": 25,
+    "timeline": 15,
+    "warranty": 15,
+    "team": 15
+  },
+  "team_points": {
+    "named_project_lead": 30,
+    "crew_size_stated": 20,
+    "safety_plan": 25,
+    "monitoring_plan": 25
+  }
+}
